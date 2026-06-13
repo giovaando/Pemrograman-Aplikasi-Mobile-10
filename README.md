@@ -27,6 +27,45 @@ Implementasi **Dependency Injection (DI) dengan Koin** dan **Testing komprehensi
 
 ---
 
+## 📸 Hasil Test
+
+### Unit Test — NoteValidatorTest
+> Screenshot hasil test di sini
+> 
+> ![NoteValidatorTest](screenshots/NoteValidatorTest.png)
+
+### Unit Test — NoteRepositoryTest
+> Screenshot hasil test di sini
+> 
+> ![NoteRepositoryTest](screenshots/NoteRepositoryTest.png)
+
+### Flow Test — NoteFlowTest
+> Screenshot hasil test di sini
+> 
+> ![NoteFlowTest](screenshots/NoteFlowTest.png)
+
+### ViewModel Test — NotesViewModelTest
+> Screenshot hasil test di sini
+> 
+> ![NotesViewModelTest](screenshots/NotesViewModelTest.png)
+
+### Koin Module Test — KoinModuleTest
+> Screenshot hasil test di sini
+> 
+> ![KoinModuleTest](screenshots/KoinModuleTest.png)
+
+### UI Test — NotesScreenTest
+> Screenshot hasil test di sini (7/7 passed)
+> 
+> ![NotesScreenTest](screenshots/NotesScreenTest.png)
+
+### Ringkasan Semua Test
+> Screenshot ringkasan semua test passed di sini
+> 
+> ![AllTests](screenshots/AllTests.png)
+
+---
+
 ## 🏗️ Arsitektur Project
 
 ```
