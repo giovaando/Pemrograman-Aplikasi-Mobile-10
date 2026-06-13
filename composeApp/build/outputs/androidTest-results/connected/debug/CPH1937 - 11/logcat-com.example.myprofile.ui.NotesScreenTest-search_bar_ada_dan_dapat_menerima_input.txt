@@ -1,0 +1,484 @@
+06-14 02:23:50.634 19089 19130 I TestRunner: started: search_bar_ada_dan_dapat_menerima_input(com.example.myprofile.ui.NotesScreenTest)
+06-14 02:23:50.642 19089 19130 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@26e7006]
+06-14 02:23:50.650 19089 19130 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-14 02:23:50.660 19089 19130 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:50.664  1569  6894 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:50.664  1569  6894 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:50.666  1015  2931 D DispPerfService: onframeavailable pid=19163, slot=2, seq=13038, name=com.example.myprofile.test:com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+06-14 02:23:50.667   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:50.667   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:50.667   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:50.667   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:50.668   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:50.669   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:50.685  1569  6894 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:50.685  1569  6894 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:50.685  1569  6894 I ColorHansManager : ColorHansManager : resume pkg: com.example.myprofile, uid:10821, prev pkg: com.example.myprofile.test, prev uid: 10822
+06-14 02:23:50.692  1569  6894 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-14 02:23:50.693   943   943 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hist_memory failed(No such file or directory)
+06-14 02:23:50.693   943   943 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count failed(No such file or directory)
+06-14 02:23:50.693   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:50.693   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:50.693   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:50.693   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:50.696  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.example.myprofile.test hasResumingActivity = true resumingPackageName = com.example.myprofile resumingActivityName = androidx.activity.ComponentActivity resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=106, uid=10821}]}
+06-14 02:23:50.696  1569 10594 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.example.myprofile.test to = com.example.myprofile
+06-14 02:23:50.698  4132  4354 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=com.example.myprofile
+06-14 02:23:50.699  1569  3906 I ColorResourcePreloadManager: resume pkg: com.example.myprofile, uid:10821, prev pkg: com.example.myprofile.test, prev uid: 10822
+06-14 02:23:50.700  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.example.myprofile multiApp = false firstStart = false launchedFromPackage = com.example.myprofile intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.myprofile/androidx.activity.ComponentActivity mCallingUid=10821 } extension = Bundle[{taskId=106, uid=10821}]}
+06-14 02:23:50.701   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:50.701   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:50.701   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:50.701   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:50.701  4443 10249 D ZoomAppController: ignore onAppEnter: Invalid cvActionFlag = 0
+06-14 02:23:50.704   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:50.704   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:50.704   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:50.704   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:50.707   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:50.707   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:50.707   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:50.707   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:50.708 19089 19197 E libEGL  : Invalid file path for libcolorx-loader.so
+06-14 02:23:50.711  3766  6544 W .statistics.ro: Accessing hidden method Landroid/telephony/OplusTelephonyManager;->getInstance(Landroid/content/Context;)Landroid/telephony/OplusTelephonyManager; (blacklist, linking, denied)
+06-14 02:23:50.712  3766  6544 E libc    : Access denied finding property "gsm.serial"
+06-14 02:23:50.712  3766  6544 E libc    : Access denied finding property "vendor.gsm.serial"
+06-14 02:23:50.721  1569  7358 D AS.AudioService: getParameters() keyValuePairs:OPLUS_AUDIO_GET_FOCUS_STACK
+06-14 02:23:50.722  4132  4354 W OppoGuardElf: ThermalControllHandler: tempLevel=8,userMode=2,gameUserMode=-1,appType=-1,envTempType=1,appStates=[]
+06-14 02:23:50.725  4132  4354 W OppoGuardElf: ThermalControllHandler: tempGear=8,configItemName=common_config
+06-14 02:23:50.733 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: PRE_ON_CREATE
+06-14 02:23:50.734  1569  1766 D WindowManager: Add to mViews: DecorView@9a73de7[myprofile],pkg= com.example.myprofile
+06-14 02:23:50.734 19089 19089 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-14 02:23:50.734 19163 19163 I OplusFeatureCache: Milliseconds spent on init(): 21
+06-14 02:23:50.734  1569  1766 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:50.735 19163 19163 E ScreenmodeClient:  display mode not support
+06-14 02:23:50.735  4132  7761 W OppoGuardElf: ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+06-14 02:23:50.747  1569  1766 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:50.761 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: CREATED
+06-14 02:23:50.762 19089 19089 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@2c059d5
+06-14 02:23:50.765  1015  1102 D DispPerfService: onframeavailable pid=1569, slot=0, seq=13043, name=system_server:Splash Screen com.example.myprofile#0
+06-14 02:23:50.766  4754  4778 E oiface  : packageSwitch pkg com.example.myprofile, enter
+06-14 02:23:50.766  4754  4778 E oiface  : current package is com.example.myprofile and pid is 19089
+06-14 02:23:50.767 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: STARTED
+06-14 02:23:50.768 19089 19089 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@2c059d5
+06-14 02:23:50.771 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: RESUMED
+06-14 02:23:50.772 19089 19089 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@2c059d5
+06-14 02:23:50.779 19089 19089 D WindowManager: Add to mViews: DecorView@6c75d90[ComponentActivity],pkg= com.example.myprofile
+06-14 02:23:50.781  4754  4770 E oiface  : Average freq 1970660 for 0s.
+06-14 02:23:50.781  4754  4770 E oiface  : Average freq 1783055 for 0s.
+06-14 02:23:50.783  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:50.787  4754  4770 E oiface  : client  not found, skipped
+06-14 02:23:50.787  4754  4770 D oiface  : forground package is com.example.myprofile
+06-14 02:23:50.788  1015  1015 D OppoExLayer: ~Layer() sequence=13044, name=Screenshot Parent@0xb400007328cea000
+06-14 02:23:50.797  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:50.799  1569  7354 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:50.812  1015  1015 D OppoExLayer: ~Layer() sequence=13034, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#1@0xb400007328d72000
+06-14 02:23:50.812  1015  1015 D OppoExLayer: ~Layer() sequence=13035, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#0@0xb400007328d89000
+06-14 02:23:50.816  1569  7354 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:50.824  1569  7354 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-14 02:23:50.828  1015  1015 D OppoExLayer: ~Layer() sequence=13039, name=Surface(name=ff2293d Splash Screen com.example.myprofile.test)/@0x6440e3b - animation-leash#0@0xb400007328dae000
+06-14 02:23:50.828  1015  1015 D OppoExLayer: ~Layer() sequence=13031, name=ff2293d Splash Screen com.example.myprofile.test#0@0xb40000731bbbf000
+06-14 02:23:50.829  1015  1015 D OppoExLayer: ~Layer() sequence=13032, name=Splash Screen com.example.myprofile.test#0@0xb40000730ca82000
+06-14 02:23:50.842  1015  1102 D DispPerfService: onframeavailable pid=19089, slot=2, seq=13048, name=com.example.myprofile:com.example.myprofile/androidx.activity.ComponentActivity#0
+06-14 02:23:50.845  1015  1015 D OppoExLayer: ~Layer() sequence=13045, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#0@0xb400007328dba000
+06-14 02:23:50.845  1015  1015 D OppoExLayer: ~Layer() sequence=13046, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#1@0xb40000730caa2000
+06-14 02:23:50.852  1569  1847 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.myprofile/10/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+06-14 02:23:50.852  1569  3598 I ColorHansManager : unfreeze uid: 10098 package: com.nearme.gamecenter reason: F-direct scene: FastFreezerScene
+06-14 02:23:50.854  1569  1847 I ActivityTaskManager: Displayed com.example.myprofile/androidx.activity.ComponentActivity: +188ms
+06-14 02:23:50.854  1569  3598 I ColorHansManager : unfreeze uid: 10189 package: com.discord reason: F-direct scene: FastFreezerScene
+06-14 02:23:50.855  1569  3598 I ColorHansManager : unfreeze uid: 10267 package: com.coloros.oppopods reason: F-direct scene: FastFreezerScene
+06-14 02:23:50.856  1569  3598 I ColorHansManager : unfreeze uid: 10725 package: com.instagram.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:50.858  1569  3598 I ColorHansManager : unfreeze uid: 10756 package: com.twitter.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:50.862  1569  3598 I ColorHansManager : unfreeze uid: 10169 package: com.lemon.lvoverseas reason: F-direct scene: FastFreezerScene
+06-14 02:23:50.863  1569  7095 I InputDispatcher: Focus entered window: Window{64bf3af u0 com.example.myprofile/androidx.activity.ComponentActivity} in display 0
+06-14 02:23:50.864  1569  3598 I ColorHansManager : exit fastfreezer, reason:F-direct
+06-14 02:23:50.865  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.lemon.lvoverseas, reason: lastResumeProtect
+06-14 02:23:50.895  1015  1015 D OppoExLayer: ~Layer() sequence=13036, name=fd92f41 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb40000731bb3c000
+06-14 02:23:50.895  1015  1015 D OppoExLayer: ~Layer() sequence=13038, name=com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb400007328da3000
+06-14 02:23:50.912  1015  1015 D OppoExLayer: ~Layer() sequence=13029, name=Task=105#0@0xb40000731bb99000
+06-14 02:23:50.912  1015  1015 D OppoExLayer: ~Layer() sequence=13030, name=ActivityRecord{b630857 u0 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb40000731bbac000
+06-14 02:23:50.924  3730  3730 E OplusNecManagerHelper: com.oplus.nec.OplusNecManager.notifyOrigSignalStrengthChanged [class android.telephony.SignalStrength, int]
+06-14 02:23:50.958  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:50.959  1569  3087 D IAtlas  : IAtlas::init this 0xb40000763bfc4b60
+06-14 02:23:50.960  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:50.960  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:50.961  1569  3087 D system_server: Resolution: 504 x 1120; FLAG:0
+06-14 02:23:50.975  1569  3087 W Bitmap  : Called getWidth() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:50.975  1569  3087 W Bitmap  : Called getHeight() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:50.983  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:50.983  1569  3087 D IAtlas  : IAtlas::init this 0xb40000763bfc4b60
+06-14 02:23:50.984  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:50.984  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:50.984  1569  3087 D system_server: Resolution: 360 x 800; FLAG:0
+06-14 02:23:51.080  1015  1015 D OppoExLayer: ~Layer() sequence=13051, name=Surface(name=f344f00 Splash Screen com.example.myprofile)/@0xc67269f - animation-leash#0@0xb40000730ca54000
+06-14 02:23:51.080  1015  1015 D OppoExLayer: ~Layer() sequence=13042, name=f344f00 Splash Screen com.example.myprofile#0@0xb40000730ca39000
+06-14 02:23:51.083  1015  1015 D OppoExLayer: ~Layer() sequence=13043, name=Splash Screen com.example.myprofile#0@0xb40000730cac5000
+06-14 02:23:51.175  1569  7356 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.myprofile
+06-14 02:23:51.175  1569  7356 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-14 02:23:51.176  1569  7356 D OplusVerificationCodeController: notifyImeAttributeChanged: 64false
+06-14 02:23:51.180  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3301
+06-14 02:23:51.181  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1979
+06-14 02:23:51.181  1569  7356 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.183  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.197  1569  7356 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.366  1569  7354 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.myprofile
+06-14 02:23:51.366  1569  7354 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-14 02:23:51.366  1569  7354 D OplusVerificationCodeController: notifyImeAttributeChanged: 64false
+06-14 02:23:51.368  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3301
+06-14 02:23:51.369  1569  7354 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.myprofile
+06-14 02:23:51.369  1569  7354 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-14 02:23:51.370  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1979
+06-14 02:23:51.370  1569  7354 D OplusVerificationCodeController: notifyImeAttributeChanged: 64false
+06-14 02:23:51.371  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.380  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1979
+06-14 02:23:51.380  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.380  6591  6591 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+06-14 02:23:51.391   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.391   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.391   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.391   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.394  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2091
+06-14 02:23:51.395  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.395  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.403  1569  1847 D PackageManager: multi app -> generatePackageInfo of [com.google.android.inputmethod.latin] for multi app user(999:1000)
+06-14 02:23:51.453 10500 19186 W adbd    : timed out while waiting for FUNCTIONFS_BIND, trying again
+06-14 02:23:51.453 10500 19186 I adbd    : UsbFfs: connection terminated: monitor thread finished
+06-14 02:23:51.472 10500 10505 I adbd    : opening control endpoint /dev/usb-ffs/adb/ep0
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: InputConnectionWrapper.waitForInputConnectionFutureInternal():1528 Failed to get the input connection call's result.
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: java.util.concurrent.TimeoutException: Waited 100 milliseconds (plus 147291 nanoseconds delay) for paj@2189db6[status=PENDING, info=[task=[running=[RUNNING ON ICWrapper-1], jkt@54ccab7]]]
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at oxb.get(PG:50)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at jlj.h(PG:2)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at jlj.g(PG:2)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at jli.b(PG:6)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at jls.C(PG:1)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at jls.o(PG:1)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at jlj.s(PG:1)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at drx.u(PG:11)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at com.android.inputmethod.latin.LatinIME.u(PG:104)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at drx.onStartInputView(PG:29)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService.startViews(InputMethodService.java:2282)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService.showWindow(InputMethodService.java:2205)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInput(InputMethodService.java:780)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.showSoftInputWithToken(InputMethodService.java:752)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:226)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.os.Looper.loop(Looper.java:263)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at android.app.ActivityThread.main(ActivityThread.java:8292)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at java.lang.reflect.Method.invoke(Native Method)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:612)
+06-14 02:23:51.525  6591  6591 E InputConnectionWrapper: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1006)
+06-14 02:23:51.525  6591  6591 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1491 IPC IC_GET_SURROUNDING_TEXT took 120 ms
+06-14 02:23:51.527  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():172 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+06-14 02:23:51.528  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.528  6591  6591 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Text imeActionName=DONE dump=[inputType=0x8001 imeOptions=0x2000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=null label=null packageName=com.example.myprofile autofillId=1073741824 fieldId=-1 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=12, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=false, android.support.text.emoji.emojiCompat_replaceAll=false}] hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+06-14 02:23:51.529  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.530  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.530  6591  6591 I Delight5Facilitator: Delight5Facilitator.initializeForIme():763 initializeForIme() : Locale = [in, en_US], layout = qwerty
+06-14 02:23:51.531  6591  6591 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+06-14 02:23:51.531  6591  6591 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+06-14 02:23:51.532  6591  3485 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():184 maybeScheduleAutoPackDownloadForFallback()
+06-14 02:23:51.533  6591  3485 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag in
+06-14 02:23:51.533  6591  3485 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+06-14 02:23:51.533  6591  3485 I SpeechPackManager: SpeechPackManager.isPackAvailableToDownload():210 isPackAvailableToDownload() : LanguageTag = en-US : ManifestUrl = https://dl.google.com/android/voice/gboard/terse/superpacks-manifest-20210519.json
+06-14 02:23:51.535  6591  6591 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1264 inline flag updated to:false
+06-14 02:23:51.536  6591 19208 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider$1.onSuccess():204 auto download packs.
+06-14 02:23:51.536  6591 19208 I SpeechPackManager: SpeechPackManager.syncPacks():314 syncPacks()
+06-14 02:23:51.536  6591 19208 I SpeechPackManager: SpeechPackManager.isPackAvailableOnDisk():191 isPackAvailableOnDisk() : LanguageTag = in
+06-14 02:23:51.536  6591 19208 I SpeechPackManager: SpeechPackManager.registerManifest():439 registerManifest() : https://dl.google.com/android/voice/gboard/terse/superpacks-manifest-20210519.json
+06-14 02:23:51.537  6591 19208 I SpeechPackManager: SpeechPackManager.lambda$registerManifest$4():446 registerManifest() : Reusing hash 1327534105
+06-14 02:23:51.540  6591  6591 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+06-14 02:23:51.541  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.542  6591  7939 I SpeechPackSlicingStrategy: SpeechPackSlicingStrategy.getSlices():50 getSlices() : ForceUpdates = false : LanguageTags = [en-US]
+06-14 02:23:51.542  6591  7939 I SpeechPackSlicingStrategy: SpeechPackSlicingStrategy.getSlices():64 getSlices(): slicing result: {slices=[{gboard-small-speech-packs:en-US-small-rnnt, W:C:*:*, bg}], last batch=true, sync metadata=false}
+06-14 02:23:51.543  6591  7939 I SP      : Syncing gboard-small-speech-packs (1327534105) with slices: [{en-US-small-rnnt, W:C:*:*, bg}], metadata: false
+06-14 02:23:51.544  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.546  6591  6591 I chatty  : uid=10100(com.google.android.inputmethod.latin) identical 3 lines
+06-14 02:23:51.547  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.558  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 250 height for app when screen height:1512, header height:88 and isFullscreenMode:false, so the max keyboard body height is:1174
+06-14 02:23:51.561  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.562  6591  6591 I chatty  : uid=10100(com.google.android.inputmethod.latin) identical 2 lines
+06-14 02:23:51.563  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.564  6591  6591 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():96 Get device mode phone by ui mode:1 and smallestScreenWidthDp:360
+06-14 02:23:51.564  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.565  6591  6591 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():96 Get device mode phone by ui mode:1 and smallestScreenWidthDp:360
+06-14 02:23:51.566  3492  5342 W HidlServiceManagement: Waited one second for com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice
+06-14 02:23:51.567   554   554 I hwservicemanager: Since com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice is not registered, trying to start it as a lazy HAL.
+06-14 02:23:51.567  3492  5342 I HidlServiceManagement: getService: Trying again for com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice...
+06-14 02:23:51.569   554 19209 W libc    : Unable to set property "ctl.interface_start" to "com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice": error code: 0x20
+06-14 02:23:51.572  6591  6591 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():109 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+06-14 02:23:51.573  6591  8171 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():432 setKeyboardLayout()
+06-14 02:23:51.575  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 250 height for app when screen height:1512, header height:88 and isFullscreenMode:false, so the max keyboard body height is:1174
+06-14 02:23:51.577  6591  6591 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():109 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+06-14 02:23:51.577  6591  6591 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():566 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 88
+06-14 02:23:51.577  6591  6591 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():109 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+06-14 02:23:51.579  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():172 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+06-14 02:23:51.579  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():172 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+06-14 02:23:51.581  6591  6591 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():566 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 88
+06-14 02:23:51.584  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.584  6591  6591 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():361 No private IME option set to start voice input.
+06-14 02:23:51.590  6591  6591 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusScreenModeFeature
+06-14 02:23:51.590  6591  6591 I oplus.android.OplusFrameworkFactoryImpl: getOplusScreenModeFeature
+06-14 02:23:51.593  1569  3645 D OppoDisplayPolicy: com.google.android.inputmethod.latin, no change cutoutMode: 0
+06-14 02:23:51.605  1569  7095 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.607  8408 18906 W OplusExSystemServiceHelper: checkOplusExSystemService intent getComponent is null
+06-14 02:23:51.610  6591  7939 I SP      : Sync for gboard-small-speech-packs succeeded in 71 ms: no changes
+06-14 02:23:51.611  6591  7939 I SP      : GC for 'gboard-small-speech-packs' (10) with ttl of 0 ms took 1 ms (0/0/1)
+06-14 02:23:51.613  6591 19204 I SpeechPackManager: SpeechPackManager$3.onSuccess():425 updatePackSetCacheAsync() : Updated the PackSet cache
+06-14 02:23:51.618  8408  8408 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+06-14 02:23:51.619  8408  8408 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+06-14 02:23:51.635  1569  7095 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.638  1015  2931 D DispPerfService: onframeavailable pid=6591, slot=0, seq=13053, name=com.google.android.inputmethod.latin:InputMethod#0
+06-14 02:23:51.652  7155  7385 D HoraeHelper: getAllShellTemps tSize : 4
+06-14 02:23:51.663  6591  7940 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:51.659  8408  8408 W ThreadPoolForeg: type=1400 audit(0.0:100935): avc: denied { write } for name="traced_producer" dev="tmpfs" ino=12694 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:traced_producer_socket:s0 tclass=sock_file permissive=0 app=com.google.android.gms
+06-14 02:23:51.681  6591  7940 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:51.702   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.702   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.702   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.702   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.719  1569  3645 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.749  1569  3645 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.782  1569  7356 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.myprofile
+06-14 02:23:51.782  1569  7356 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-14 02:23:51.782  1569  7356 D OplusVerificationCodeController: notifyImeAttributeChanged: 64false
+06-14 02:23:51.801 19089 19089 W IInputConnectionWrapper: getTextAfterCursor on inactive InputConnection
+06-14 02:23:51.807 19089 19089 W IInputConnectionWrapper: getSelectedText on inactive InputConnection
+06-14 02:23:51.809  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1979
+06-14 02:23:51.809  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.809  6591  6591 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+06-14 02:23:51.810  6591  6591 W SessionManager: SessionManager.endSession():96 Child session [INPUT_VIEW_SESSION] is not ended while ending session [{IME_SESSION=1781378631527, INPUT_VIEW_SESSION=1781378631394, INPUT_SESSION=1781378631381, TRAINING_CACHE_SESSION=1781378631530}], ending it now.
+06-14 02:23:51.810  6591  6591 W SessionManager: SessionManager.endSession():96 Child session [IME_SESSION] is not ended while ending session [{IME_SESSION=1781378631527, INPUT_VIEW_SESSION=1781378631394, INPUT_SESSION=1781378631381, TRAINING_CACHE_SESSION=1781378631530}], ending it now.
+06-14 02:23:51.811  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2091
+06-14 02:23:51.811  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.812  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.817  1569  7356 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.820  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():172 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+06-14 02:23:51.822  6591  6591 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+06-14 02:23:51.822  6591  6591 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+06-14 02:23:51.822  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.823  6591  6591 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+06-14 02:23:51.823  6591  6726 I NebulaeTrainingCacheMetricsProcessor: NebulaeTrainingCacheMetricsProcessor.processEndSession():362 No input action collection in this session, skip logging.
+06-14 02:23:51.823  6591  6591 W SessionManager: SessionManager.endSession():88 Try to end a not begun session [IME_SESSION].
+06-14 02:23:51.824  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.824  6591  6591 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Text imeActionName=DONE dump=[inputType=0x8001 imeOptions=0x2000006 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=null label=null packageName=com.example.myprofile autofillId=1073741824 fieldId=-1 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=12, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=false, android.support.text.emoji.emojiCompat_replaceAll=false}] hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+06-14 02:23:51.825  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.825  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.825  6591  6591 I Delight5Facilitator: Delight5Facilitator.initializeForIme():763 initializeForIme() : Locale = [in, en_US], layout = qwerty
+06-14 02:23:51.826  6591  6591 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+06-14 02:23:51.826  6591  6591 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+06-14 02:23:51.826  6591  3485 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():184 maybeScheduleAutoPackDownloadForFallback()
+06-14 02:23:51.826  6591  6591 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1264 inline flag updated to:false
+06-14 02:23:51.826  6591  3485 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag in
+06-14 02:23:51.826  6591  3485 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+06-14 02:23:51.826  6591  3485 I SpeechPackManager: SpeechPackManager.isPackAvailableToDownload():210 isPackAvailableToDownload() : LanguageTag = en-US : ManifestUrl = https://dl.google.com/android/voice/gboard/terse/superpacks-manifest-20210519.json
+06-14 02:23:51.827  6591 19207 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider$1.onSuccess():204 auto download packs.
+06-14 02:23:51.827  6591 19207 I SpeechPackManager: SpeechPackManager.syncPacks():314 syncPacks()
+06-14 02:23:51.827  6591 19207 I SpeechPackManager: SpeechPackManager.isPackAvailableOnDisk():191 isPackAvailableOnDisk() : LanguageTag = in
+06-14 02:23:51.827  6591 19207 I SpeechPackManager: SpeechPackManager.registerManifest():439 registerManifest() : https://dl.google.com/android/voice/gboard/terse/superpacks-manifest-20210519.json
+06-14 02:23:51.827  6591 19143 I SpeechPackManager: SpeechPackManager.lambda$registerManifest$4():446 registerManifest() : Reusing hash 1327534105
+06-14 02:23:51.828  6591  6591 I KeyboardWrapper: KeyboardWrapper.consumeEvent():284 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+06-14 02:23:51.829  6591  7939 I SpeechPackSlicingStrategy: SpeechPackSlicingStrategy.getSlices():50 getSlices() : ForceUpdates = false : LanguageTags = [en-US]
+06-14 02:23:51.829  6591  7939 I SpeechPackSlicingStrategy: SpeechPackSlicingStrategy.getSlices():64 getSlices(): slicing result: {slices=[{gboard-small-speech-packs:en-US-small-rnnt, W:C:*:*, bg}], last batch=true, sync metadata=false}
+06-14 02:23:51.829  6591  7939 I SP      : Syncing gboard-small-speech-packs (1327534105) with slices: [{en-US-small-rnnt, W:C:*:*, bg}], metadata: false
+06-14 02:23:51.829  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.833  6591  6591 I chatty  : uid=10100(com.google.android.inputmethod.latin) identical 4 lines
+06-14 02:23:51.834  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.835  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 250 height for app when screen height:1512, header height:88 and isFullscreenMode:false, so the max keyboard body height is:1174
+06-14 02:23:51.836  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.837  6591  6591 I chatty  : uid=10100(com.google.android.inputmethod.latin) identical 2 lines
+06-14 02:23:51.838  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.838  6591  6591 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():96 Get device mode phone by ui mode:1 and smallestScreenWidthDp:360
+06-14 02:23:51.839  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.839  6591  6591 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():96 Get device mode phone by ui mode:1 and smallestScreenWidthDp:360
+06-14 02:23:51.840  6591  6591 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():109 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+06-14 02:23:51.840  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():53 leave 250 height for app when screen height:1512, header height:88 and isFullscreenMode:false, so the max keyboard body height is:1174
+06-14 02:23:51.842 19089 19130 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:51.842  6591  6591 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():109 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+06-14 02:23:51.842  6591  6591 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():566 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 88
+06-14 02:23:51.842  6591  6591 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():109 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+06-14 02:23:51.843  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():172 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+06-14 02:23:51.844  6591  6591 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():172 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+06-14 02:23:51.845  6591  6591 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():566 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 88
+06-14 02:23:51.845  1569  3645 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:51.845  1569  3645 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:51.846  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:51.846  6591  6591 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():361 No private IME option set to start voice input.
+06-14 02:23:51.848  6591  8171 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():432 setKeyboardLayout()
+06-14 02:23:51.851   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:51.851   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:51.855  1569  3645 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+06-14 02:23:51.862   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.862   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.862   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.862   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.864 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: PAUSED
+06-14 02:23:51.865 19089 19089 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@2c059d5
+06-14 02:23:51.867   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.867   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.867   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.867   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.868  6591  6591 W InputContextProxyV4: InputContextProxyV4.applyClientDiffInternal():895 Ignore [FetchSuggestions] diff due to stale request: 3884<3886, inputStateId=1906, lastInputStateId=1907
+06-14 02:23:51.869  1569  7272 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:51.869  1569  7272 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:51.869  1569  7272 I ColorHansManager : ColorHansManager : resume pkg: com.example.myprofile.test, uid:10822, prev pkg: com.example.myprofile, prev uid: 10821
+06-14 02:23:51.871  1569  3598 I ColorHansManager : enter fastfreezer
+06-14 02:23:51.873  7155  7340 D HoraeHelper: Thermal length:1
+06-14 02:23:51.877  1569  3598 I ColorHansManager : freeze uid: 10756 package: com.twitter.android reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:51.878  1569  3598 I ColorHansManager : freeze uid: 10267 package: com.coloros.oppopods reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:51.881  1569  3598 I ColorHansManager : freeze uid: 10169 package: com.lemon.lvoverseas reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:51.881   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.881   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.881   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.881   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.883  1569  3598 I ColorHansManager : freeze uid: 10189 package: com.discord reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:51.884  1569  7272 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-14 02:23:51.885  1569  3598 I ColorHansManager : freeze uid: 10725 package: com.instagram.android reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:51.886  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.example.myprofile hasResumingActivity = true resumingPackageName = com.example.myprofile.test resumingActivityName = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=107, uid=10822}]}
+06-14 02:23:51.887  1569  3598 I ColorHansManager : freeze uid: 10098 package: com.nearme.gamecenter reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:51.887  1569 10594 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.example.myprofile to = com.example.myprofile.test
+06-14 02:23:51.887  1569 10594 D DCSEX-AppLaunchEventRecorder: recordExitApp = com.example.myprofile
+06-14 02:23:51.888  1569  3906 I ColorResourcePreloadManager: resume pkg: com.example.myprofile.test, uid:10822, prev pkg: com.example.myprofile, prev uid: 10821
+06-14 02:23:51.889  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.example.myprofile.test multiApp = false firstStart = false launchedFromPackage = com.example.myprofile intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10821 } extension = Bundle[{taskId=107, uid=10822}]}
+06-14 02:23:51.889  1569 10594 E OplusTrack-ApkInfoUtil: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.os.Bundle.get(java.lang.String)' on a null object reference
+06-14 02:23:51.889  4132  7311 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=com.example.myprofile.test
+06-14 02:23:51.889  1569 10594 W System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.os.Bundle.get(java.lang.String)' on a null object reference
+06-14 02:23:51.889   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.889   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.889   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.889   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.h.b.d(ApkInfoUtil.java:136)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.b.b.a(TrackEvent.java:141)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.b.b.<init>(TrackEvent.java:47)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.b.a.<init>(CommonBean.java:37)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.c.a(OplusTrack.java:223)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.e.a.a$a.a(AppLaunchEventRecorder.java:143)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.e.a.a$a.a(AppLaunchEventRecorder.java:102)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.e.a.-$$Lambda$2fHLmT8JZlr5OzkT2xnqiCVdLEk.onAppSwitch(Unknown Source:2)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.c.b.a(AppSwitchMonitor.java:97)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.c.b.lambda$yF2sSrETF4wpk07pjuI1ubPVnB8(Unknown Source:0)
+06-14 02:23:51.889  1569 10594 W System.err: 	at com.oplus.statistics.c.-$$Lambda$b$yF2sSrETF4wpk07pjuI1ubPVnB8.accept(Unknown Source:4)
+06-14 02:23:51.890  1569 10594 W System.err: 	at java.util.concurrent.CopyOnWriteArrayList.forEach(CopyOnWriteArrayList.java:832)
+06-14 02:23:51.890  1569 10594 W System.err: 	at com.oplus.statistics.c.b.b(AppSwitchMonitor.java:97)
+06-14 02:23:51.890  1569 10594 W System.err: 	at com.oplus.statistics.c.b.lambda$fX4Hi7f3z5t3AW9aa0q-E6iGF5w(Unknown Source:0)
+06-14 02:23:51.890  1569 10594 W System.err: 	at com.oplus.statistics.c.-$$Lambda$b$fX4Hi7f3z5t3AW9aa0q-E6iGF5w.run(Unknown Source:4)
+06-14 02:23:51.890  1569 10594 W System.err: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-14 02:23:51.890  1569 10594 W System.err: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-14 02:23:51.890  1569 10594 W System.err: 	at java.lang.Thread.run(Thread.java:923)
+06-14 02:23:51.890  1569 10594 W OplusTrack-TrackEvent: appId is empty
+06-14 02:23:51.891  7155  7346 E libc    : Access denied finding property "vendor.oplus.media.vpp.osie_sr.on"
+06-14 02:23:51.892  4443  4459 D ZoomAppController: ignore onAppEnter: Invalid cvActionFlag = 0
+06-14 02:23:51.896  1569  7272 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-14 02:23:51.902  1569  3645 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:51.905  6591  7939 I SP      : Sync for gboard-small-speech-packs succeeded in 77 ms: no changes
+06-14 02:23:51.905  6591  7939 I SP      : GC for 'gboard-small-speech-packs' (10) with ttl of 0 ms took 0 ms (0/0/0)
+06-14 02:23:51.908  3766  3937 W .statistics.ro: Accessing hidden method Landroid/telephony/OplusTelephonyManager;->getInstance(Landroid/content/Context;)Landroid/telephony/OplusTelephonyManager; (blacklist, linking, denied)
+06-14 02:23:51.909  6591 19204 I SpeechPackManager: SpeechPackManager$3.onSuccess():425 updatePackSetCacheAsync() : Updated the PackSet cache
+06-14 02:23:51.909  1569  1766 D WindowManager: Add to mViews: DecorView@4166fce[test],pkg= com.example.myprofile.test
+06-14 02:23:51.909  3766  3937 E libc    : Access denied finding property "gsm.serial"
+06-14 02:23:51.910  3766  3937 E libc    : Access denied finding property "vendor.gsm.serial"
+06-14 02:23:51.910  1569  1766 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:51.903  3766  3766 W dcs-thread-DcsW: type=1400 audit(0.0:100936): avc: denied { read } for name="u:object_r:oplus_nw_exported_system_prop:s0" dev="tmpfs" ino=11414 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:oplus_nw_exported_system_prop:s0 tclass=file permissive=0 app=com.nearme.statistics.rom
+06-14 02:23:51.919  1569  4080 W Binder  : Outgoing transactions from this process must be FLAG_ONEWAY
+06-14 02:23:51.919  1569  4080 W Binder  : java.lang.Throwable
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.os.BinderProxy.transact(BinderProxy.java:529)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.content.ContentProviderProxy.insert(ContentProviderNative.java:548)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.content.ContentProviderClient.insert(ContentProviderClient.java:348)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.content.ContentProviderClient.insert(ContentProviderClient.java:337)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.d.b.a(ContentProviderRecorder.java:83)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.d.b.a(ContentProviderRecorder.java:30)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.d.d.a(ProxyRecorder.java:28)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.a.c.a(CommonAgent.java:14)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.c.b(OplusTrack.java:264)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.c.lambda$TevJh1zDK89VqR4KzFSU579I1Dw(Unknown Source:0)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at com.oplus.statistics.-$$Lambda$c$TevJh1zDK89VqR4KzFSU579I1Dw.run(Unknown Source:2)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.os.Handler.handleCallback(Handler.java:938)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.os.Handler.dispatchMessage(Handler.java:99)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.os.Looper.loop(Looper.java:263)
+06-14 02:23:51.919  1569  4080 W Binder  : 	at android.os.HandlerThread.run(HandlerThread.java:67)
+06-14 02:23:51.919  1569  1766 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:51.931   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:51.931   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:51.931   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:51.931   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:51.933  1569  7354 I InputDispatcher: Focus left window: Window{64bf3af u0 com.example.myprofile/androidx.activity.ComponentActivity} in display 0
+06-14 02:23:51.935  1015  1200 D DispPerfService: onframeavailable pid=1569, slot=0, seq=13057, name=system_server:Splash Screen com.example.myprofile.test#0
+06-14 02:23:51.937 19163 19212 E libEGL  : Invalid file path for libcolorx-loader.so
+06-14 02:23:51.949  1015  1015 D OppoExLayer: ~Layer() sequence=13058, name=Screenshot Parent@0xb40000730cac5000
+06-14 02:23:51.952  3766  6544 W .statistics.ro: Accessing hidden method Landroid/telephony/OplusTelephonyManager;->getInstance(Landroid/content/Context;)Landroid/telephony/OplusTelephonyManager; (blacklist, linking, denied)
+06-14 02:23:51.947  3766  3766 W dcs-thread-act: type=1400 audit(0.0:100937): avc: denied { read } for name="u:object_r:oplus_nw_exported_system_prop:s0" dev="tmpfs" ino=11414 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:oplus_nw_exported_system_prop:s0 tclass=file permissive=0 app=com.nearme.statistics.rom
+06-14 02:23:51.952  3766  6544 E libc    : Access denied finding property "gsm.serial"
+06-14 02:23:51.952  3766  6544 E libc    : Access denied finding property "vendor.gsm.serial"
+06-14 02:23:51.977  1569  3645 D AS.AudioService: getParameters() keyValuePairs:OPLUS_AUDIO_GET_FOCUS_STACK
+06-14 02:23:51.979  4132  7311 W OppoGuardElf: ThermalControllHandler: tempLevel=8,userMode=2,gameUserMode=-1,appType=-1,envTempType=1,appStates=[]
+06-14 02:23:51.983  4754  4778 E oiface  : packageSwitch pkg com.example.myprofile.test, enter
+06-14 02:23:51.983  4754  4778 E oiface  : current package is com.example.myprofile.test and pid is 19163
+06-14 02:23:51.987  4132  7311 W OppoGuardElf: ThermalControllHandler: tempGear=8,configItemName=common_config
+06-14 02:23:51.997 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: STOPPED
+06-14 02:23:51.998  4132  7761 W OppoGuardElf: ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+06-14 02:23:51.998 19089 19089 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@2c059d5
+06-14 02:23:52.004  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:52.005  4754  4770 E oiface  : Average freq 1999475 for 1s.
+06-14 02:23:52.005  4754  4770 E oiface  : Average freq 1790006 for 1s.
+06-14 02:23:52.005  1569  3087 D IAtlas  : IAtlas::init this 0xb40000763bfc4b60
+06-14 02:23:51.999  1569  1569 W Binder:1569_16: type=1400 audit(0.0:100938): avc: denied { read } for name="freq_table_mhz" dev="sysfs" ino=38800 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_sysfs_kgsl:s0 tclass=file permissive=0
+06-14 02:23:52.006  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:52.006  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:52.006  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:52.008  1569  3087 D system_server: Resolution: 504 x 1120; FLAG:0
+06-14 02:23:52.010  4754  4770 E oiface  : client  not found, skipped
+06-14 02:23:52.010  4754  4770 D oiface  : forground package is com.example.myprofile.test
+06-14 02:23:52.015 19163 19163 D WindowManager: Add to mViews: DecorView@ef2404a[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.myprofile.test
+06-14 02:23:52.021  1569  3087 W Bitmap  : Called getWidth() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:52.021  1569  3087 W Bitmap  : Called getHeight() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:52.024  1569  3671 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:52.028  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:52.029  1569  3087 D IAtlas  : IAtlas::init this 0xb40000763bfc4b60
+06-14 02:23:52.029  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:52.029  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:52.030  1569  3087 D system_server: Resolution: 360 x 800; FLAG:0
+06-14 02:23:52.027  1569  1569 W Binder:1569_1C: type=1400 audit(0.0:100939): avc: denied { read } for name="freq_table_mhz" dev="sysfs" ino=38800 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_sysfs_kgsl:s0 tclass=file permissive=0
+06-14 02:23:52.031  1015  1015 D OppoExLayer: ~Layer() sequence=13048, name=com.example.myprofile/androidx.activity.ComponentActivity#0@0xb40000730caa5000
+06-14 02:23:52.032  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:52.041  1569  3596 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:52.051  6977  7750 I Athena  : MemoryGuardAction: 30562s since the last releasing, try to force trigger
+06-14 02:23:52.051  6977  7750 I Athena  : MemoryGuardAction: triggerMemory:2000MB, availMemory:3718MB
+06-14 02:23:52.052  1569  3596 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-14 02:23:52.064  1015  1015 D OppoExLayer: ~Layer() sequence=13059, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#0@0xb400007328cd9000
+06-14 02:23:52.064  1015  1015 D OppoExLayer: ~Layer() sequence=13060, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#1@0xb400007328cdc000
+06-14 02:23:52.069  1015  1200 D DispPerfService: onframeavailable pid=19163, slot=0, seq=13062, name=com.example.myprofile.test:com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+06-14 02:23:52.079  1569  1847 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.myprofile.test/0/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity/compiled_traces/compiled_trace.pb doesn't exist
+06-14 02:23:52.080  1569  3598 I ColorHansManager : unfreeze uid: 10098 package: com.nearme.gamecenter reason: F-direct scene: FastFreezerScene
+06-14 02:23:52.081  1569  1847 I ActivityTaskManager: Displayed com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +234ms
+06-14 02:23:52.081  1569  3671 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{db8dc24 u0 com.oppo.launcher/.Launcher t2}
+06-14 02:23:52.082  1569  3598 I ColorHansManager : unfreeze uid: 10189 package: com.discord reason: F-direct scene: FastFreezerScene
+06-14 02:23:52.082   943   943 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count failed(No such file or directory)
+06-14 02:23:52.083  1569  6894 I InputDispatcher: Focus entered window: Window{8f571c1 u0 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-14 02:23:52.084  1569  3598 I ColorHansManager : unfreeze uid: 10267 package: com.coloros.oppopods reason: F-direct scene: FastFreezerScene
+06-14 02:23:52.084 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@2c059d5 in: DESTROYED
+06-14 02:23:52.085 19089 19089 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-14 02:23:52.087  1569  3598 I ColorHansManager : unfreeze uid: 10725 package: com.instagram.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:52.087  1569  3671 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-14 02:23:52.088  1569  3598 I ColorHansManager : unfreeze uid: 10756 package: com.twitter.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:52.089  1569  3671 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+06-14 02:23:52.090  1569  3598 I ColorHansManager : unfreeze uid: 10169 package: com.lemon.lvoverseas reason: F-direct scene: FastFreezerScene
+06-14 02:23:52.091  1569  3598 I ColorHansManager : exit fastfreezer, reason:F-direct
+06-14 02:23:52.093  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.lemon.lvoverseas, reason: lastResumeProtect
+06-14 02:23:52.101   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.101   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.101   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.101   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.101  1015  1200 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10822 pid=19163
+06-14 02:23:52.101  1015  1200 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10822 => denied (666 us)
+06-14 02:23:52.104  3730  3730 E OplusNecManagerHelper: com.oplus.nec.OplusNecManager.notifyOrigSignalStrengthChanged [class android.telephony.SignalStrength, int]
+06-14 02:23:52.115  1015  1015 D OppoExLayer: ~Layer() sequence=13047, name=64bf3af com.example.myprofile/androidx.activity.ComponentActivity#0@0xb40000730cab7000
+06-14 02:23:52.117  1569  3596 I InputDispatcher: Focus left window: Window{8f571c1 u0 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-14 02:23:52.119   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.119   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.119   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.119   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.120 19089 19130 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@26e7006]
+06-14 02:23:52.121  1569  3671 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:52.122  1569  3671 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:52.122  1569  3671 I ColorHansManager : ColorHansManager : resume pkg: com.oppo.launcher, uid:10044, prev pkg: com.example.myprofile.test, prev uid: 10822
+06-14 02:23:52.122 19089 19130 I TestRunner: finished: search_bar_ada_dan_dapat_menerima_input(com.example.myprofile.ui.NotesScreenTest)

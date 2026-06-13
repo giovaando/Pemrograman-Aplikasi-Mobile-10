@@ -1,0 +1,307 @@
+06-14 02:23:52.580 19089 19130 I TestRunner: started: daftar_catatan_ditampilkan_saat_ada_data(com.example.myprofile.ui.NotesScreenTest)
+06-14 02:23:52.584  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.lemon.lvoverseas, reason: lastResumeProtect
+06-14 02:23:52.585  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.example.myprofile, reason: lastResumeProtect
+06-14 02:23:52.588   554 19220 W libc    : Unable to set property "ctl.interface_start" to "com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice": error code: 0x20
+06-14 02:23:52.590  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.595 19089 19130 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@99d548b]
+06-14 02:23:52.597 19089 19219 D ProfileInstaller: Installing profile for com.example.myprofile
+06-14 02:23:52.602  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.605 19089 19130 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-14 02:23:52.609  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.620  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.621  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:52.625  1569  3087 D IAtlas  : IAtlas::init this 0xb40000779c43a330
+06-14 02:23:52.627  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.629  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:52.629  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:52.629  1569  3087 D system_server: Resolution: 504 x 1120; FLAG:0
+06-14 02:23:52.636 19089 19130 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.639  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.640  1569  3596 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:52.640  1569  3596 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:52.643  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.643   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.643   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.643   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.643   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.645   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:52.646   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:52.646  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.647   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.647   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.647   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.647   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.652  1569  3596 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+06-14 02:23:52.657  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.659  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.661  1569  3087 W Bitmap  : Called getWidth() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:52.661  1569  3087 W Bitmap  : Called getHeight() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:52.663  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.665  1569  3596 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:52.665  1569  3596 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:52.665  1569  3596 I ColorHansManager : ColorHansManager : resume pkg: com.example.myprofile, uid:10821, prev pkg: com.oppo.launcher, prev uid: 10044
+06-14 02:23:52.666  1569  3598 I ColorHansManager : enter fastfreezer
+06-14 02:23:52.667  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.669  1569  3598 I ColorHansManager : freeze uid: 10756 package: com.twitter.android reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.671  1569  3598 I ColorHansManager : freeze uid: 10267 package: com.coloros.oppopods reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.671   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.671   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.671   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.671   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.672  3746  4072 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:52.675  1569  3596 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-14 02:23:52.676  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:52.676  1569  3598 I ColorHansManager : freeze uid: 10169 package: com.lemon.lvoverseas reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.676   943   943 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hist_memory failed(No such file or directory)
+06-14 02:23:52.676   943   943 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count failed(No such file or directory)
+06-14 02:23:52.678  1569  3598 I ColorHansManager : freeze uid: 10822 package: com.example.myprofile.test reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.679  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.oppo.launcher hasResumingActivity = true resumingPackageName = com.example.myprofile resumingActivityName = androidx.activity.ComponentActivity resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=108, uid=10821}]}
+06-14 02:23:52.680   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.680   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.680   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.680   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.680  1569  3598 I ColorHansManager : freeze uid: 10189 package: com.discord reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.681  1569 10594 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.oppo.launcher to = com.example.myprofile
+06-14 02:23:52.682  4132  4354 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=com.example.myprofile
+06-14 02:23:52.682  1569  3598 I ColorHansManager : freeze uid: 10725 package: com.instagram.android reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.684  1569  3598 I ColorHansManager : freeze uid: 10098 package: com.nearme.gamecenter reason: fastfreezer|10821 scene: FastFreezerScene
+06-14 02:23:52.684  1569  3596 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-14 02:23:52.684  1569  3906 I ColorResourcePreloadManager: resume pkg: com.example.myprofile, uid:10821, prev pkg: com.oppo.launcher, prev uid: 10044
+06-14 02:23:52.685  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.example.myprofile multiApp = false firstStart = false launchedFromPackage = com.example.myprofile intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.myprofile/androidx.activity.ComponentActivity mCallingUid=10821 } extension = Bundle[{taskId=108, uid=10821}]}
+06-14 02:23:52.685  1569  3087 D IAtlas  : IAtlas::init this 0xb40000779c43a330
+06-14 02:23:52.685  4443 10249 D ZoomAppController: ignore onAppEnter: Invalid cvActionFlag = 0
+06-14 02:23:52.685  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:52.685  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:52.687  1569  3087 D system_server: Resolution: 360 x 800; FLAG:0
+06-14 02:23:52.693   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:52.693   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:52.693   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:52.693   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:52.695  7880  7905 E IHansComunication: HANS printMessageBody: RCVed message body: type = 0, port = 86870, caller_pid = 1569, caller_uid = 1000, target_pid = 16867, target_uid = 10169, pkg_cmd = -1
+06-14 02:23:52.696  1569  3645 I ColorHansManager : unfreeze uid: 10169 package: com.lemon.lvoverseas reason: BumpService scene: FastFreezerScene
+06-14 02:23:52.699 19089 19223 E libEGL  : Invalid file path for libcolorx-loader.so
+06-14 02:23:52.706 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: PRE_ON_CREATE
+06-14 02:23:52.708  3746  3790 I m.oppo.launche: NativeAlloc concurrent copying GC freed 3405(251KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 11MB/23MB, paused 272us total 159.673ms
+06-14 02:23:52.710  1569  1766 D WindowManager: Add to mViews: DecorView@3fe4f11[myprofile],pkg= com.example.myprofile
+06-14 02:23:52.711  1569  1766 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:52.715 19089 19089 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-14 02:23:52.725  3746  3798 W System  : A resource failed to call release.
+06-14 02:23:52.725  3746  3798 W System  : A resource failed to call release.
+06-14 02:23:52.726  1569  1766 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:52.728  1569  6818 D AS.AudioService: getParameters() keyValuePairs:OPLUS_AUDIO_GET_FOCUS_STACK
+06-14 02:23:52.728  5460  5476 W android.vendin: Suspending all threads took: 5.569ms
+06-14 02:23:52.730  4132  4354 W OppoGuardElf: ThermalControllHandler: tempLevel=8,userMode=2,gameUserMode=-1,appType=-1,envTempType=1,appStates=[]
+06-14 02:23:52.733  1015  1015 D OppoExLayer: ~Layer() sequence=13076, name=Surface(name=WallpaperWindowToken{bc503a4 token=android.os.Binder@50da237})/@0x41fe8d4 - animation-leash#0@0xb40000730ca67000
+06-14 02:23:52.733  1015  1015 D OppoExLayer: ~Layer() sequence=13075, name=Surface(name=Task=107)/@0xe5d3117 - animation-leash#0@0xb40000731bbf3000
+06-14 02:23:52.736  1569  7272 I InputDispatcher: Focus left window: Window{af7cbfb u0 com.oppo.launcher/com.oppo.launcher.Launcher} in display 0
+06-14 02:23:52.740  4132  4354 W OppoGuardElf: ThermalControllHandler: tempGear=8,configItemName=common_config
+06-14 02:23:52.742  1015  1200 D DispPerfService: onframeavailable pid=1569, slot=0, seq=13082, name=system_server:Splash Screen com.example.myprofile#0
+06-14 02:23:52.746 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: CREATED
+06-14 02:23:52.747 19089 19089 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@9c12ffe
+06-14 02:23:52.750  4754  4778 E oiface  : packageSwitch pkg com.example.myprofile, enter
+06-14 02:23:52.750  4754  4778 E oiface  : current package is com.example.myprofile and pid is 19089
+06-14 02:23:52.752  4132  7761 W OppoGuardElf: ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+06-14 02:23:52.761  4754  4770 E oiface  : Average freq 1964307 for 0s.
+06-14 02:23:52.761  4754  4770 E oiface  : Average freq 1758523 for 0s.
+06-14 02:23:52.755  1569  1569 W Binder:1569_18: type=1400 audit(0.0:100943): avc: denied { read } for name="freq_table_mhz" dev="sysfs" ino=38800 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_sysfs_kgsl:s0 tclass=file permissive=0
+06-14 02:23:52.762  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:52.766 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: STARTED
+06-14 02:23:52.766  1015  1015 D OppoExLayer: ~Layer() sequence=13071, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#1@0xb40000730ca5e000
+06-14 02:23:52.766  1015  1015 D OppoExLayer: ~Layer() sequence=13072, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#0@0xb40000730ca61000
+06-14 02:23:52.767 19089 19089 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@9c12ffe
+06-14 02:23:52.769  4754  4770 E oiface  : client  not found, skipped
+06-14 02:23:52.769  4754  4770 D oiface  : forground package is com.example.myprofile
+06-14 02:23:52.770 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: RESUMED
+06-14 02:23:52.771 19089 19089 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@9c12ffe
+06-14 02:23:52.777 19089 19089 D WindowManager: Add to mViews: DecorView@4fa272d[ComponentActivity],pkg= com.example.myprofile
+06-14 02:23:52.775  1569  1569 W Binder:1569_12: type=1400 audit(0.0:100944): avc: denied { read } for name="freq_table_mhz" dev="sysfs" ino=38800 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_sysfs_kgsl:s0 tclass=file permissive=0
+06-14 02:23:52.782  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:52.783  1569  3596 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:52.797  1569  6818 D OppoDisplayPolicy: com.example.myprofile, no change cutoutMode: 0
+06-14 02:23:52.808  1569  6818 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-14 02:23:52.817  1015  1015 D OppoExLayer: ~Layer() sequence=13085, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#0@0xb40000730ca82000
+06-14 02:23:52.817  1015  1015 D OppoExLayer: ~Layer() sequence=13086, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#1@0xb40000730caa2000
+06-14 02:23:52.825  3746  4095 W Launcher.NotificationCenterServiceClient: getBadgeOption invalid value = -1000, key = PUUkey:[pkg=com.google.android.gms,user=UserHandle{0},Uid=10032]
+06-14 02:23:52.825  1015  1104 D DispPerfService: onframeavailable pid=19089, slot=1, seq=13088, name=com.example.myprofile:com.example.myprofile/androidx.activity.ComponentActivity#0
+06-14 02:23:52.833  1569  1847 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.myprofile/10/androidx.activity.ComponentActivity/compiled_traces/compiled_trace.pb doesn't exist
+06-14 02:23:52.835  1569  1847 I ActivityTaskManager: Displayed com.example.myprofile/androidx.activity.ComponentActivity: +194ms
+06-14 02:23:52.851  1569  3671 I InputDispatcher: Focus entered window: Window{1a1f4d1 u0 com.example.myprofile/androidx.activity.ComponentActivity} in display 0
+06-14 02:23:52.855  1569  3671 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.myprofile
+06-14 02:23:52.855  1569  3671 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false  isExist=true )
+06-14 02:23:52.855  1569  3671 D OplusVerificationCodeController: notifyImeAttributeChanged: 64false
+06-14 02:23:52.861  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3301
+06-14 02:23:52.862  6591  6591 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1979
+06-14 02:23:52.863  6591  6591 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+06-14 02:23:52.868  1569  3530 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:52.883  1015  1015 D OppoExLayer: ~Layer() sequence=13078, name=Surface(name=e274e4a InputMethod)/@0x6eda31 - animation-leash#1@0xb40000730ca6a000
+06-14 02:23:52.885  1569  6818 D OppoDisplayPolicy: com.android.systemui, change system app cutoutMode: color always
+06-14 02:23:52.935  3746  3746 E Launcher.ColorBubbleTextView: mForceHideDot is false
+06-14 02:23:52.939  3746  3746 I chatty  : uid=10044(com.oppo.launcher) identical 10 lines
+06-14 02:23:52.940  3746  3746 E Launcher.ColorBubbleTextView: mForceHideDot is false
+06-14 02:23:53.037  1569  3598 I ColorHansManager : unfreeze uid: 10098 package: com.nearme.gamecenter reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.039  1569  3598 I ColorHansManager : unfreeze uid: 10189 package: com.discord reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.040  1569  3598 I ColorHansManager : unfreeze uid: 10267 package: com.coloros.oppopods reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.041  1569  3598 I ColorHansManager : unfreeze uid: 10725 package: com.instagram.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.042  1569  3598 I ColorHansManager : unfreeze uid: 10756 package: com.twitter.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.043  1569  3598 I ColorHansManager : unfreeze uid: 10822 package: com.example.myprofile.test reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.044  1569  3598 I ColorHansManager : exit fastfreezer, reason:F-direct
+06-14 02:23:53.045  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.lemon.lvoverseas, reason: lastResumeProtect
+06-14 02:23:53.046  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.example.myprofile.test, reason: lastResumeProtect
+06-14 02:23:53.051  1015  1015 D OppoExLayer: ~Layer() sequence=13084, name=Surface(name=Task=2)/@0xde108e - animation-leash#0@0xb40000730ca54000
+06-14 02:23:53.051  1015  1015 D OppoExLayer: ~Layer() sequence=13091, name=Surface(name=d7cbe77 Splash Screen com.example.myprofile)/@0xead6d09 - animation-leash#0@0xb40000730ca20000
+06-14 02:23:53.051  1015  1015 D OppoExLayer: ~Layer() sequence=13081, name=d7cbe77 Splash Screen com.example.myprofile#0@0xb40000730ca6d000
+06-14 02:23:53.051  1015  1015 D OppoExLayer: ~Layer() sequence=13083, name=Surface(name=Task=108)/@0x20f21bd - animation-leash#0@0xb40000730ca39000
+06-14 02:23:53.054  1015  1015 D OppoExLayer: ~Layer() sequence=13082, name=Splash Screen com.example.myprofile#0@0xb400007328dba000
+06-14 02:23:53.067  3746  3746 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:53.067  1015  1015 D OppoExLayer: ~Layer() sequence=13062, name=com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb40000730ca44000
+06-14 02:23:53.067  1015  1015 D OppoExLayer: ~Layer() sequence=13061, name=8f571c1 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb40000730ca41000
+06-14 02:23:53.102  1015  1015 D OppoExLayer: ~Layer() sequence=13069, name=#0@0xb400007328dab000
+06-14 02:23:53.118  1015  1015 D OppoExLayer: ~Layer() sequence=13070, name=com.oppo.launcher/com.oppo.launcher.Launcher#0@0xb400007328da0000
+06-14 02:23:53.119  1015  1015 D OppoExLayer: ~Layer() sequence=13054, name=Task=107#0@0xb40000730cb12000
+06-14 02:23:53.119  1015  1015 D OppoExLayer: ~Layer() sequence=13055, name=ActivityRecord{7277bf1 u0 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0@0xb400007328d0b000
+06-14 02:23:53.122  1569  1586 I system_server: Background young concurrent copying GC freed 258475(14MB) AllocSpace objects, 421(8740KB) LOS objects, 22% free, 81MB/105MB, paused 261us total 114.291ms
+06-14 02:23:53.134  1569  1588 W System  : A resource failed to call release.
+06-14 02:23:53.135  1569  1588 I chatty  : uid=1000(system) FinalizerDaemon identical 3 lines
+06-14 02:23:53.136  1569  1588 W System  : A resource failed to call release.
+06-14 02:23:53.151  1015  1015 D OppoExLayer: ~Layer() sequence=13050, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#0@0xb40000730ca51000
+06-14 02:23:53.152  1015  1015 D OppoExLayer: ~Layer() sequence=13049, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#1@0xb40000730caa8000
+06-14 02:23:53.161  3730  3730 E OplusNecManagerHelper: com.oplus.nec.OplusNecManager.notifyOrigSignalStrengthChanged [class android.telephony.SignalStrength, int]
+06-14 02:23:53.360 16581 18727 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:53.499 10500 19218 W adbd    : timed out while waiting for FUNCTIONFS_BIND, trying again
+06-14 02:23:53.499 10500 19218 I adbd    : UsbFfs: connection terminated: monitor thread finished
+06-14 02:23:53.515 10500 10505 I adbd    : opening control endpoint /dev/usb-ffs/adb/ep0
+06-14 02:23:53.526 19089 19130 E Parcel  : Reading a NULL string not supported here.
+06-14 02:23:53.529  1569  3671 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:53.529  1569  3671 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:53.532   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:53.532   981   981 E ANDR-PERF-MPCTL: invalid request, no optimizations performed
+06-14 02:23:53.536  1569  3671 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+06-14 02:23:53.542   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.542   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.542   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.542   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.543 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: PAUSED
+06-14 02:23:53.544 19089 19089 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@9c12ffe
+06-14 02:23:53.544   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.544   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.544   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.544   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.547  1569  6818 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:53.547  1569  6818 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:53.547  1569  6818 I ColorHansManager : ColorHansManager : resume pkg: com.example.myprofile.test, uid:10822, prev pkg: com.example.myprofile, prev uid: 10821
+06-14 02:23:53.547  1569  3598 I ColorHansManager : enter fastfreezer
+06-14 02:23:53.550  1569  3598 I ColorHansManager : freeze uid: 10756 package: com.twitter.android reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:53.551  1569  3598 I ColorHansManager : freeze uid: 10267 package: com.coloros.oppopods reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:53.553  1569  3598 I ColorHansManager : freeze uid: 10169 package: com.lemon.lvoverseas reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:53.554  1569  3598 I ColorHansManager : freeze uid: 10189 package: com.discord reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:53.555   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.555   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.555   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.555   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.556  1569  3598 I ColorHansManager : freeze uid: 10725 package: com.instagram.android reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:53.557  1569  6818 I InputDispatcher: setFocusedApplication displayId=0 <invalid>
+06-14 02:23:53.557  1569  3598 I ColorHansManager : freeze uid: 10098 package: com.nearme.gamecenter reason: fastfreezer|10822 scene: FastFreezerScene
+06-14 02:23:53.558  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.example.myprofile hasResumingActivity = true resumingPackageName = com.example.myprofile.test resumingActivityName = androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=109, uid=10822}]}
+06-14 02:23:53.558  1569 10594 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.example.myprofile to = com.example.myprofile.test
+06-14 02:23:53.559  4132  4354 W OppoGuardElf: ThermalControlUtils: mForegroundPkg=com.example.myprofile.test
+06-14 02:23:53.560  1569  3906 I ColorResourcePreloadManager: resume pkg: com.example.myprofile.test, uid:10822, prev pkg: com.example.myprofile, prev uid: 10821
+06-14 02:23:53.560  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.example.myprofile.test multiApp = false firstStart = false launchedFromPackage = com.example.myprofile intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10821 } extension = Bundle[{taskId=109, uid=10822}]}
+06-14 02:23:53.560  4443  4459 D ZoomAppController: ignore onAppEnter: Invalid cvActionFlag = 0
+06-14 02:23:53.562   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.562   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.562   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.562   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.562  1569  6818 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-14 02:23:53.572   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.572   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.572   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.573   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.580  3492  5342 W HidlServiceManagement: Waited one second for com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice
+06-14 02:23:53.580   554   554 I hwservicemanager: Since com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice is not registered, trying to start it as a lazy HAL.
+06-14 02:23:53.581  3492  5342 I HidlServiceManagement: getService: Trying again for com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice...
+06-14 02:23:53.582  1569  1766 D WindowManager: Add to mViews: DecorView@4d94b08[test],pkg= com.example.myprofile.test
+06-14 02:23:53.582  1569  1766 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:53.583  1569  7095 D AS.AudioService: getParameters() keyValuePairs:OPLUS_AUDIO_GET_FOCUS_STACK
+06-14 02:23:53.574 19163 19229 E libEGL  : Invalid file path for libcolorx-loader.so
+06-14 02:23:53.584  4132  4354 W OppoGuardElf: ThermalControllHandler: tempLevel=8,userMode=2,gameUserMode=-1,appType=-1,envTempType=1,appStates=[]
+06-14 02:23:53.586   554 19230 W libc    : Unable to set property "ctl.interface_start" to "com.qualcomm.qti.uceservice@2.2::IUceService/com.qualcomm.qti.uceservice": error code: 0x20
+06-14 02:23:53.589  4132  4354 W OppoGuardElf: ThermalControllHandler: tempGear=8,configItemName=common_config
+06-14 02:23:53.590  1569  1766 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:53.597  4132  7761 W OppoGuardElf: ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+06-14 02:23:53.604  1569  7272 I InputDispatcher: Focus left window: Window{1a1f4d1 u0 com.example.myprofile/androidx.activity.ComponentActivity} in display 0
+06-14 02:23:53.606  1015  2931 D DispPerfService: onframeavailable pid=1569, slot=0, seq=13096, name=system_server:Splash Screen com.example.myprofile.test#0
+06-14 02:23:53.608  4754  4778 E oiface  : packageSwitch pkg com.example.myprofile.test, enter
+06-14 02:23:53.608  4754  4778 E oiface  : current package is com.example.myprofile.test and pid is 19163
+06-14 02:23:53.615  3766  6544 W .statistics.ro: Accessing hidden method Landroid/telephony/OplusTelephonyManager;->getInstance(Landroid/content/Context;)Landroid/telephony/OplusTelephonyManager; (blacklist, linking, denied)
+06-14 02:23:53.616  3766  6544 E libc    : Access denied finding property "gsm.serial"
+06-14 02:23:53.616  3766  6544 E libc    : Access denied finding property "vendor.gsm.serial"
+06-14 02:23:53.611  3766  3766 W dcs-thread-act: type=1400 audit(0.0:100945): avc: denied { read } for name="u:object_r:oplus_nw_exported_system_prop:s0" dev="tmpfs" ino=11414 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:oplus_nw_exported_system_prop:s0 tclass=file permissive=0 app=com.nearme.statistics.rom
+06-14 02:23:53.619  1015  1015 D OppoExLayer: ~Layer() sequence=13097, name=Screenshot Parent@0xb40000730caa8000
+06-14 02:23:53.622  4754  4770 E oiface  : Average freq 1992282 for 0s.
+06-14 02:23:53.623  4754  4770 E oiface  : Average freq 1783813 for 0s.
+06-14 02:23:53.623  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:53.619  1569  1569 W Binder:1569_C: type=1400 audit(0.0:100946): avc: denied { read } for name="freq_table_mhz" dev="sysfs" ino=38800 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_sysfs_kgsl:s0 tclass=file permissive=0
+06-14 02:23:53.639  4754  4770 E oiface  : client  not found, skipped
+06-14 02:23:53.639  4754  4770 D oiface  : forground package is com.example.myprofile.test
+06-14 02:23:53.648 19163 19163 D WindowManager: Add to mViews: DecorView@6e369ab[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.myprofile.test
+06-14 02:23:53.652  1015  1015 D OppoExLayer: ~Layer() sequence=13090, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#0@0xb40000731ba40000
+06-14 02:23:53.653  1015  1015 D OppoExLayer: ~Layer() sequence=13089, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#1@0xb400007324667000
+06-14 02:23:53.655  1569  7272 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:53.651  1569  1569 W Binder:1569_1C: type=1400 audit(0.0:100947): avc: denied { read } for name="freq_table_mhz" dev="sysfs" ino=38800 scontext=u:r:system_server:s0 tcontext=u:object_r:vendor_sysfs_kgsl:s0 tclass=file permissive=0
+06-14 02:23:53.656  4754  4770 E oiface  : get gpu freq table failed
+06-14 02:23:53.665 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: STOPPED
+06-14 02:23:53.665 19089 19089 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@9c12ffe
+06-14 02:23:53.676  1569  7272 D OppoDisplayPolicy: com.example.myprofile.test, no change cutoutMode: 0
+06-14 02:23:53.679  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:53.681  1569  3087 D IAtlas  : IAtlas::init this 0xb40000779c43c470
+06-14 02:23:53.682  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:53.682  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:53.683  1569  3087 D system_server: Resolution: 504 x 1120; FLAG:0
+06-14 02:23:53.689  1569  7272 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-14 02:23:53.702  1015  1015 D OppoExLayer: ~Layer() sequence=13098, name=Surface(name=66a1997 StatusBar)/@0x3ce34b2 - animation-leash#0@0xb400007328dae000
+06-14 02:23:53.702  1015  1015 D OppoExLayer: ~Layer() sequence=13099, name=Surface(name=db2ccfb NavigationBar0)/@0x686dc03 - animation-leash#1@0xb40000730ca2f000
+06-14 02:23:53.709 19089 19089 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@9c12ffe in: DESTROYED
+06-14 02:23:53.710 19089 19089 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-14 02:23:53.710  1015  2931 D DispPerfService: onframeavailable pid=19163, slot=0, seq=13101, name=com.example.myprofile.test:com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+06-14 02:23:53.712  1569  3087 W Bitmap  : Called getWidth() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:53.712  1569  3087 W Bitmap  : Called getHeight() on a recycle()'d bitmap! This is undefined behavior!
+06-14 02:23:53.718  1569  1847 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.myprofile.test/0/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity/compiled_traces/compiled_trace.pb doesn't exist
+06-14 02:23:53.718  1569  3598 I ColorHansManager : unfreeze uid: 10098 package: com.nearme.gamecenter reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.720  1569  1847 I ActivityTaskManager: Displayed com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +189ms
+06-14 02:23:53.720  1569  3598 I ColorHansManager : unfreeze uid: 10189 package: com.discord reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.720  1569  3087 D IAtlas  : IAtlas::init CallingPid 1569
+06-14 02:23:53.721  1569  3644 I InputDispatcher: Focus entered window: Window{df262e5 u0 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-14 02:23:53.721  1569  3087 D IAtlas  : IAtlas::init this 0xb40000779c43c470
+06-14 02:23:53.721  1569  3598 I ColorHansManager : unfreeze uid: 10267 package: com.coloros.oppopods reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.721  1569  3087 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+06-14 02:23:53.721  1569  3087 D system_server: ##Make: options.fQuality:95,quality:95,encoderMgr->imageprocessing_flag:0
+06-14 02:23:53.722  1569  3087 D system_server: Resolution: 360 x 800; FLAG:0
+06-14 02:23:53.723  1569  3598 I ColorHansManager : unfreeze uid: 10725 package: com.instagram.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.724  1569  3598 I ColorHansManager : unfreeze uid: 10756 package: com.twitter.android reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.727  1569  3598 I ColorHansManager : unfreeze uid: 10169 package: com.lemon.lvoverseas reason: F-direct scene: FastFreezerScene
+06-14 02:23:53.728  1569  3598 I ColorHansManager : exit fastfreezer, reason:F-direct
+06-14 02:23:53.730  1569  3599 I ColorHansManager : stateRToFFreeze--imporant case: pkgName: com.lemon.lvoverseas, reason: lastResumeProtect
+06-14 02:23:53.731  1569  7272 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{db8dc24 u0 com.oppo.launcher/.Launcher t2}
+06-14 02:23:53.732   943   943 E ORMS_HAL: open /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count failed(No such file or directory)
+06-14 02:23:53.735  1569  7272 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-14 02:23:53.736  1569  7272 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+06-14 02:23:53.748   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.748   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.748   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.748   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.753  1015  1015 D OppoExLayer: ~Layer() sequence=13087, name=1a1f4d1 com.example.myprofile/androidx.activity.ComponentActivity#0@0xb40000730b438000
+06-14 02:23:53.753  1015  1015 D OppoExLayer: ~Layer() sequence=13088, name=com.example.myprofile/androidx.activity.ComponentActivity#0@0xb40000731bbfc000
+06-14 02:23:53.755  1569  7354 I InputDispatcher: Focus left window: Window{df262e5 u0 com.example.myprofile.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity} in display 0
+06-14 02:23:53.759  1569  3596 V SensorManager: setScreenShotDisableImpl
+06-14 02:23:53.759  1569  3596 D SensorService: debug_oplusGeminiProximity setScreenShotDisable in SensorService
+06-14 02:23:53.759  1569  3596 I ColorHansManager : ColorHansManager : resume pkg: com.oppo.launcher, uid:10044, prev pkg: com.example.myprofile.test, prev uid: 10822
+06-14 02:23:53.759  1569  3598 I ColorHansManager : enter fastfreezer
+06-14 02:23:53.764   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/io_percent not supported
+06-14 02:23:53.764   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 1]
+06-14 02:23:53.764   981  1038 E ANDR-PERF-OPTSHANDLER: Perflock resource /sys/class/devfreq/soc:qcom,llccbw/bw_hwmon/sample_ms not supported
+06-14 02:23:53.764   981  1038 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [12, 3]
+06-14 02:23:53.764  1569  3598 I ColorHansManager : freeze uid: 10756 package: com.twitter.android reason: fastfreezer|10044 scene: FastFreezerScene
+06-14 02:23:53.764 19089 19130 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@99d548b]
+06-14 02:23:53.764  1569  3598 I ColorHansManager : freeze uid: 10267 package: com.coloros.oppopods reason: fastfreezer|10044 scene: FastFreezerScene
+06-14 02:23:53.765  1569  3906 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.example.myprofile.test hasResumingActivity = true resumingPackageName = com.oppo.launcher resumingActivityName = com.oppo.launcher.Launcher resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=2, uid=10044}]}
+06-14 02:23:53.765 19089 19130 I TestRunner: finished: daftar_catatan_ditampilkan_saat_ada_data(com.example.myprofile.ui.NotesScreenTest)

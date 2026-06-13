@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.myprofile.ui.NotesScreenTest" tests="7" failures="0" errors="0" skipped="0" time="18.498" timestamp="2026-06-13T19:24:06" hostname="localhost">
+  <properties>
+    <property name="device" value="CPH1937 - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":composeApp" />
+  </properties>
+  <testcase name="emptyState_menampilkan_pesan_kosong" classname="com.example.myprofile.ui.NotesScreenTest" time="3.429" />
+  <testcase name="search_bar_ada_dan_dapat_menerima_input" classname="com.example.myprofile.ui.NotesScreenTest" time="1.469" />
+  <testcase name="daftar_catatan_ditampilkan_saat_ada_data" classname="com.example.myprofile.ui.NotesScreenTest" time="1.032" />
+  <testcase name="error_message_ditampilkan_saat_state_error" classname="com.example.myprofile.ui.NotesScreenTest" time="0.849" />
+  <testcase name="tombol_tambah_ada_dan_bisa_diklik" classname="com.example.myprofile.ui.NotesScreenTest" time="1.411" />
+  <testcase name="input_judul_dapat_menerima_teks" classname="com.example.myprofile.ui.NotesScreenTest" time="1.417" />
+  <testcase name="loading_indicator_ditampilkan_saat_state_loading" classname="com.example.myprofile.ui.NotesScreenTest" time="1.761" />
+</testsuite>

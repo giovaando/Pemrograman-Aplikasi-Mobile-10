@@ -1,0 +1,380 @@
+# 2026-06-13T19:24:06.368809400Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 7
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "emptyState_menampilkan_pesan_kosong"
+    start_time {
+      seconds: 1781378627
+      nanos: 808000000
+    }
+    end_time {
+      seconds: 1781378631
+      nanos: 234000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-emptyState_menampilkan_pesan_kosong.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "search_bar_ada_dan_dapat_menerima_input"
+    start_time {
+      seconds: 1781378631
+      nanos: 280000000
+    }
+    end_time {
+      seconds: 1781378632
+      nanos: 748000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-search_bar_ada_dan_dapat_menerima_input.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "daftar_catatan_ditampilkan_saat_ada_data"
+    start_time {
+      seconds: 1781378633
+      nanos: 340000000
+    }
+    end_time {
+      seconds: 1781378634
+      nanos: 371000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-daftar_catatan_ditampilkan_saat_ada_data.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "error_message_ditampilkan_saat_state_error"
+    start_time {
+      seconds: 1781378634
+      nanos: 838000000
+    }
+    end_time {
+      seconds: 1781378635
+      nanos: 687000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-error_message_ditampilkan_saat_state_error.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "tombol_tambah_ada_dan_bisa_diklik"
+    start_time {
+      seconds: 1781378635
+      nanos: 690000000
+    }
+    end_time {
+      seconds: 1781378637
+      nanos: 101000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-tombol_tambah_ada_dan_bisa_diklik.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "input_judul_dapat_menerima_teks"
+    start_time {
+      seconds: 1781378637
+      nanos: 489000000
+    }
+    end_time {
+      seconds: 1781378638
+      nanos: 907000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-input_judul_dapat_menerima_teks.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NotesScreenTest"
+    test_package: "com.example.myprofile.ui"
+    test_method: "loading_indicator_ditampilkan_saat_state_loading"
+    start_time {
+      seconds: 1781378638
+      nanos: 912000000
+    }
+    end_time {
+      seconds: 1781378640
+      nanos: 671000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\logcat-com.example.myprofile.ui.NotesScreenTest-loading_indicator_ditampilkan_saat_state_loading.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\Pemrograman-Aplikasi-Mobile-10\\composeApp\\build\\outputs\\androidTest-results\\connected\\debug\\CPH1937 - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

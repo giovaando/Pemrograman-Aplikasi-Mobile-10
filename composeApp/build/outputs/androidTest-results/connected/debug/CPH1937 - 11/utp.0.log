@@ -1,0 +1,35 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.example.myprofile"
+    test_package: "com.example.myprofile.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.example.myprofile/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "com.example.myprofile.ui.NotesScreenTest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [D:\Pemrograman-Aplikasi-Mobile-10\composeApp\build\intermediates\apk\debug\composeApp-debug.apk] on device adb-e063c0fb-bmT7iK._adb-tls-connect._tcp.
+INFO: Installing [D:\Pemrograman-Aplikasi-Mobile-10\composeApp\build\intermediates\apk\androidTest\debug\composeApp-debug-androidTest.apk] on device adb-e063c0fb-bmT7iK._adb-tls-connect._tcp.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.example.myprofile for device adb-e063c0fb-bmT7iK._adb-tls-connect._tcp.
+INFO: Uninstalling com.example.myprofile.test for device adb-e063c0fb-bmT7iK._adb-tls-connect._tcp.
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.emptyState_menampilkan_pesan_kosong: PASSED
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.search_bar_ada_dan_dapat_menerima_input: PASSED
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.daftar_catatan_ditampilkan_saat_ada_data: PASSED
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.error_message_ditampilkan_saat_state_error: PASSED
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.tombol_tambah_ada_dan_bisa_diklik: PASSED
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.input_judul_dapat_menerima_teks: PASSED
+INFO: Execute com.example.myprofile.ui.NotesScreenTest.loading_indicator_ditampilkan_saat_state_loading: PASSED

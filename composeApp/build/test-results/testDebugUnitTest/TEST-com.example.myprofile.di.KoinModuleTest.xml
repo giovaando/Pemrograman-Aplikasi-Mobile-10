@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.myprofile.di.KoinModuleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-13T19:06:41" hostname="LAPTOP-M4E91BNR" time="0.117">
+  <properties/>
+  <testcase name="NoteRepository dapat di-resolve dari Koin" classname="com.example.myprofile.di.KoinModuleTest" time="0.114"/>
+  <testcase name="NoteValidator dapat di-resolve dari Koin" classname="com.example.myprofile.di.KoinModuleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
